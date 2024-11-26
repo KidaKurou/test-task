@@ -1,0 +1,4 @@
+# gitignore for node js app
+
+node_modules
+dist
